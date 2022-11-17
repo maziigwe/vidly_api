@@ -1,0 +1,24 @@
+{
+  "name": "vidly_api",
+  "version": "1.0.0",
+  "description": "This is a backend service for the popular vidly application by Mosh Hamedani. However, this a Typsecript &amp; Node, as opposed to Javascript &amp; Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maziigwe/vidly_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maziigwe/vidly_api/issues"
+  },
+  "homepage": "https://github.com/maziigwe/vidly_api#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  }
+}
